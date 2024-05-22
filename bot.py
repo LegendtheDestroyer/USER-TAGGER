@@ -137,5 +137,5 @@ async def cancel_spam(event):
             pass
         return await event.respond('__Stopped.__')
 
-print(">> Jarvis User TAgger Robot Started <<")
+print(">> friday User TAgger Robot Started <<")
 client.run_until_disconnected()
