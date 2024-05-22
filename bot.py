@@ -25,8 +25,8 @@ async def start(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("ᴏᴡɴᴇʀ", url="https://t.me/l_legend_l"),
-                Button.url("sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TitanBotStore")
+                Button.url("ᴏᴡɴᴇʀ", url="https://t.me/III_CRUSH_III"),
+                Button.url("sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+SpoTZ5xmtutkNWNl")
             ]
         )
     )
@@ -39,8 +39,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("ᴏᴡɴᴇʀ", url="https://t.me/l_legend_l"),
-                Button.url("sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TitanBotStore")
+                Button.url("ᴏᴡɴᴇʀ", url="https://t.me/III_CRUSH_III"),
+                Button.url("sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/+SpoTZ5xmtutkNWNl")
             ]
         )
     )
